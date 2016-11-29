@@ -1,0 +1,1 @@
+n. take(kunci_lemari). take(kapak). s. use(kunci_lemari,lemari_besi). take(sepatu). take(celana_panjang). s. take(pen). n. w. use(kapak,lemari_kayu). use(pen,parcel). take(pineapple). take(baju_berkerah). e. e. take(apple). w. s. s. combine(pen,pineapple,apple).
